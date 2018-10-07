@@ -8,6 +8,6 @@
 <ol>
 <li><a href="https://github.com/code-mazdor/React-for-Beginners/tree/master/hello%20react">Hello in React</a></li>
 <li><a href="https://github.com/code-mazdor/React-for-Beginners/tree/master/react%20comp1">React Components (<em>Auto update text in box)</em></a></li>
-<li>test</li>
+<li>test 1</li>
 </ol>
 
