@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap");
+body {
+  background-image: url("https://images.pexels.com/photos/583846/pexels-photo-583846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin-bottom: 80px;
+}
+.header {
+  text-align: center;
+  background-image: linear-gradient(rgb(250, 95, 160), rgb(245, 245, 245));
+  width: 100%;
+  height:9%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+ 
+}
+.heading{
+  font-size: 20px;
+  font-family: "Open Sans Condensed", sans-serif; 
+
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.493);
+  transition: 0.3s;
+  width: 80%;
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  font-family: "Lato", sans-serif;
+  font-size: 25px;
+  text-align: center;
+  background-color: rgba(183, 204, 248, 0.815);
+  border-radius: 25px;
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(245, 7, 7, 0.637);
+}
+
+.container {
+  padding: 20px 16px;
+}
